@@ -22,6 +22,7 @@ To maintain complete transparency regarding platform distribution rules and user
 
 * 🔗 **[Privacy Policy](privacy.html)** – Detailed information regarding local device storage permissions, optional Google authentication (OAuth), Google Play billing infrastructure, and AdMob data declarations.
 * 📄 **[App-Ads.txt](app-ads.txt)** – Official Authorized Digital Sellers (ADS) cryptographic validation ledger for verified ad delivery networks.
+*  **[Terms.html](terms.html)** - Terms of use
 
 ---
 
